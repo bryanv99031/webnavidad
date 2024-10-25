@@ -94,9 +94,9 @@ nav ul li a:hover {
 /* Carrusel */
 .carousel {
     width: calc(100% - 2cm); /* Ancho total menos márgenes de 2 cm a cada lado */
-    height: 480px; /* Altura ajustada */
+    height: 380px; /* Altura ajustada */
     margin: 40px auto; /* Margen automático para centrar */
-    border-radius: 20px; /* Bordes redondeados */
+    border-radius: 30px; /* Bordes redondeados */
     overflow: hidden;
     position: relative;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
