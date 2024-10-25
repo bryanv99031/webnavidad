@@ -264,8 +264,8 @@ video {
 }
 
 .product-images img, .children-images img {
-    width: 350px; /* Fixed width for product and child images */
-    height: 250px; /* Fixed height for product and child images */
+    width: 300px; /* Fixed width for product and child images */
+    height: 200px; /* Fixed height for product and child images */
     margin: 10px; /* Space around each image */
     border-radius: 8px; /* Rounded corners */
     transition: transform 0.2s; /* Transition effect */
